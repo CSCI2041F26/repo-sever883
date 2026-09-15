@@ -1,4 +1,4 @@
-(* Author: Eric Van Wyk
+(* Author: Miesha Severinov
    Modified by: ... replace the text between the dots with your name ... *)
 
 (* A function computing the Fibonacci sequence: 1, 1, 2, 3, 5, 8, ... *)
